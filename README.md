@@ -12,6 +12,12 @@
 >
 > Join us for a session packed with awesome terminal UIs and hands-on hacking with embedded Rust!
 
+## Schedule
+
+The workshop is meant to be completed **in 2 hours.**
+
+First 30 minutes will be [a presentation](#presentation) about Ratatui and embedded Rust, followed by a 90-minute hands-on workshop.
+
 ## Workshop Preparation
 
 If you don't have everything set up, I'm afraid we won't have enough time to do hacking during the [workshop](./README.md).
@@ -20,7 +26,9 @@ So please make sure to complete the steps in [PREPARATION.md](./PREPARATION.md) 
 
 ## Templates
 
-TODO
+There is a template project in the [`template/`](./template) folder that you can use as a starting point.
+
+Each file is well documented to help you understand what is going on.
 
 ## Presentation
 
@@ -43,3 +51,17 @@ presenterm presentation.md -X -c config/presenterm.yml -p
 
 > [!TIP]  
 > Run the [`present.sh`](./present.sh) script to present with the recommended tools and configuration.
+
+## Show and Tell
+
+Join the [Ratatui Discord](https://discord.gg/pMCEU9hNEj) and share your creations with the other terminal chefs!
+
+If you have any questions or need help, feel free to ask there as well!
+
+## License
+
+Copyright © 2025, [Orhun Parmaksız](https://github.com/orhun)
+
+Licensed under [The MIT License](./LICENSE)
+
+🦀 ノ( º \_ º ノ) - respect crables!

@@ -3,6 +3,13 @@
 This is a template for you to start your own Ratatui project for embedded devices.
 It includes all the necessary configuration files and a minimal example to get you started.
 
+Make sure you clone the repository and navigate to the `template` folder:
+
+```bash
+git clone https://github.com/orhun/embedded-ratatui-workshop
+cd embedded-ratatui-workshop/template
+```
+
 ## Running
 
 > [!WARNING]
